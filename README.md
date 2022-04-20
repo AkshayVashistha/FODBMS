@@ -1,0 +1,1 @@
+This project contains the weighted network analysis of characters of Jazz musicians . Nodes represent the jazz musicians as indicated by the labels and edges the mutual relationship between them . The data on Jazz musicians were taken from D. E. Knuth, The Stanford GraphBase.
